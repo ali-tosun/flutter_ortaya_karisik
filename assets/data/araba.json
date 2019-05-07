@@ -1,0 +1,28 @@
+[
+  {
+    "adi": "ali",
+    "soyadi": "tosun",
+    "yas": 1997,
+    "sevdigiYemekler": [
+      {
+        "yemek": "Tavuk"
+      },
+      {
+        "yemek": "Kebab"
+      }
+    ]
+  },
+  {
+    "adi": "esra",
+    "soyadi": "tosun",
+    "yas": 1997,
+    "sevdigiYemekler": [
+      {
+        "yemek": "salata"
+      },
+      {
+        "yemek": "pilav"
+      }
+    ]
+  }
+]
